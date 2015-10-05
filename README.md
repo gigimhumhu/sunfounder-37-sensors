@@ -1,4 +1,4 @@
-# Examples Sketches for the Sunfounder 37 Sensor Kit 
+# Example Sketches for the Sunfounder 37 Sensor Kit 
 * [ ] 1. Analogy-hall sensor
 * [ ] 2. RGB LED
 * [ ] 3. Knock sensor
