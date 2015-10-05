@@ -35,4 +35,3 @@ void blinkLED(int color, int onDur, int offDur) {
   digitalWrite(color, LOW);
   delay(offDur);  
 }
-

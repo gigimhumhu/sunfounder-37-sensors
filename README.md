@@ -10,7 +10,7 @@
 * [ ] 9. Passive buzzer
 * [ ] 10. Common-cathode red & green LED
 * [ ] 11. Push button
-* [X] 12. [RGB LED](https://github.com/kristeaac/sunfounder-37-sensors/tree/master/12%20-%20RGB%20LED)
+* [X] 12. [RGB LED](12%20-%20RGB%20LED/)
 * [ ] 13. Light break sensor
 * [ ] 14. Tilt-switch
 * [ ] 15. 18b20 temperature sensor
