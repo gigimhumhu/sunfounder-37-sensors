@@ -1,6 +1,6 @@
 # Examples Sketches for the Sunfounder 37 Sensor Kit 
 * [ ] 1. Analogy-hall sensor
-* [ ] 2. RGB KED
+* [ ] 2. RGB LED
 * [ ] 3. Knock sensor
 * [ ] 4. Infrared-transmit
 * [ ] 5. Laser-transmit
@@ -21,7 +21,7 @@
 * [ ] 20. Hall sensor
 * [ ] 21. Magic-ring
 * [ ] 22. Finger-pulse sensor
-* [ ] 23. Two-color commoncathode LED
+* [ ] 23. Two-color common cathode LED
 * [ ] 24. Photo resistor sensor
 * [ ] 25. Humiture sensor
 * [ ] 26. Shock-switch sensor
