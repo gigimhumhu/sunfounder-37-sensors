@@ -25,6 +25,10 @@ male jumper wire | e4 - breadboard ground
 male jumper wire | breadboard ground - Arduino GND
 male jumper wire | breadboard power - Arduino 5V
 
+## Sketch Code
+
+This is a pretty basic example, so just see the full sketch [here](Blink.ino).
+
 ## Demo
 
 <img src='demo.gif' title='demo' alt='demo' />
