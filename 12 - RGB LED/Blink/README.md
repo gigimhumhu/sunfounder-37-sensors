@@ -1,12 +1,16 @@
 # Blink
 Blink is an Arduino sketch to demonstrate the basic functionality of the Keyes RGB LED.
 
-**Model** - Arduino Uno
-**Sensor** - Keyes RGB LED
+## Materials Needed
+Quantity | Material
+---------|---------
+1|Arduino Uno
+1|solderless breadboard w/ labeled grid ([like the one seen here](http://www.amazon.com/Solderless-Plug--BreadBoard-tie-points-200PTS/dp/B005GYATUG))
+1|Keyes RGB LED
+3|330Ω resistors
+6|male jumper wires
 
 ## Wiring Instructions
-
-(Using a solderless breadboard with a labeled grid like [the one seen here](http://www.amazon.com/Solderless-Plug--BreadBoard-tie-points-200PTS/dp/B005GYATUG).)
 
 Component  | Connection Details | 
 ------------- | -------------
