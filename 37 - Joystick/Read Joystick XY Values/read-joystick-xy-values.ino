@@ -2,8 +2,8 @@
  * Reads and prints the joystick's XY values to the serial monitor
  */
 
-int xPin = 1;
-int yPin = 0;
+int xPin = 0;
+int yPin = 1;
 
 void setup() {
   Serial.begin(9600);
