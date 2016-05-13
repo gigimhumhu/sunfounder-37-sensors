@@ -35,4 +35,4 @@
 * [ ] 34. Flame sensor
 * [ ] 35. Relay
 * [ ] 36. Magnetic spring
-* [ ] 37. Joystick PS2
+* [X] 37. [Joystick PS2](37 - Joystick)
