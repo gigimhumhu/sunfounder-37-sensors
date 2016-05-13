@@ -4,6 +4,10 @@ Demonstrates basic usage of the joystick sensor by reading and printing the XY v
 ## Demo
 ![Serial Monitor Demo](serial-monitor-example-01.gif)
 
+## Interpreting the Values
+The demo is printing XY pairs to the serial monitor which correspond to the position of the joystick. These values range from 0 to 1023. If the joystick is in the far lower right position, X and Y are both 0. See the grid below for orientation.
+![XY Grid](xy-grid.png)
+
 ## Parts Used
 * 1x [Keyes Joystick Module](http://www.amazon.com/Keyes-Joystick-Module-Black/dp/B013GBYNZM)
 * 1x [Ardunio UNO R3 Board Module](http://www.amazon.com/Arduino-Board-Module-ATmega328P-Blue/dp/B01A0MONA0)
