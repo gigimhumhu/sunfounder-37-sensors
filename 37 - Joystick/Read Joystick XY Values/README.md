@@ -3,6 +3,7 @@ Demonstrates basic usage of the joystick sensor by reading and printing the XY v
 
 ## Demo
 ![Serial Monitor Demo](serial-monitor-example-01.gif)
+
 Note: the XY values in real life are printing much faster than the GIF captures in this demo
 
 ## The Wiring
