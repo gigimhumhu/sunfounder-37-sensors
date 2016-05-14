@@ -1,5 +1,5 @@
 # Example Arduino Sketches for the Sunfounder 37 Sensors Kit 
-* [ ] 1. Analogy-hall sensor
+* [X] 1. [Analog hall magnetic sensor](01 - Analog Hall Magnetic Sensor)
 * [ ] 2. RGB LED
 * [ ] 3. Knock sensor
 * [ ] 4. Infrared-transmit
