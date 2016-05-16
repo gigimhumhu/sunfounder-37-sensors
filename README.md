@@ -3,7 +3,7 @@
 * [ ] 2. RGB LED
 * [ ] 3. Knock sensor
 * [ ] 4. Infrared-transmit
-* [X] 5. [Laser sensor](05 - Laser sensor)
+* [X] 5. [Laser sensor](05 - Laser Sensor)
 * [ ] 6. Magnet-ring sensor
 * [ ] 7. Infrared-receive sensor
 * [ ] 8. Analog-temperature sensor
