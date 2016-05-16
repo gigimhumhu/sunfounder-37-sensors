@@ -25,7 +25,7 @@
 * [ ] 24. Photo resistor sensor
 * [ ] 25. Humiture sensor
 * [ ] 26. Shock-switch sensor
-* [ ] 27. Obstacle avoidance sensor
+* [X] 27. [Obstacle avoidance sensor](27 - Obstacle Avoidance Sensor)
 * [ ] 28. Tracking sensor
 * [ ] 29. Microphone sensor
 * [ ] 30. High-sensitive voice sensor
