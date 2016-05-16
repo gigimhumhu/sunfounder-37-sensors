@@ -3,14 +3,14 @@
 * [ ] 2. RGB LED
 * [ ] 3. Knock sensor
 * [ ] 4. Infrared-transmit
-* [ ] 5. Laser-transmit
+* [X] 5. [Laser sensor](05 - Laser sensor)
 * [ ] 6. Magnet-ring sensor
 * [ ] 7. Infrared-receive sensor
 * [ ] 8. Analog-temperature sensor
 * [ ] 9. Passive buzzer
 * [ ] 10. Common-cathode red & green LED
 * [ ] 11. Push button
-* [X] 12. [RGB LED](12%20-%20RGB%20LED/)
+* [X] 12. [RGB LED](12 - RGB LED/)
 * [ ] 13. Light break sensor
 * [ ] 14. Tilt-switch
 * [ ] 15. 18b20 temperature sensor
