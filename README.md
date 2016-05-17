@@ -12,7 +12,7 @@
 * [ ] 11. Push button
 * [X] 12. [RGB LED](12 - RGB LED/)
 * [ ] 13. Light break sensor
-* [ ] 14. Tilt-switch
+* [X] 14. [Tilt switch sensor](14 - Tilt Switch Sensor)
 * [ ] 15. 18b20 temperature sensor
 * [ ] 16. Rotate-encode
 * [ ] 17. Active buzzer
