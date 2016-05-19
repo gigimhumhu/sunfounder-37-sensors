@@ -3,7 +3,7 @@
 * [ ] 2. RGB LED
 * [ ] 3. Knock sensor
 * [ ] 4. Infrared-transmit
-* [X] 5. [Laser sensor](05 - Laser Sensor)
+* [X] 5. [Keyes KY-008 Laser Transmitter](05 - Keyes Laser Transmitter)
 * [ ] 6. Magnet-ring sensor
 * [ ] 7. Infrared-receive sensor
 * [ ] 8. Analog-temperature sensor
