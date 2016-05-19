@@ -1,4 +1,4 @@
-# 27. Obstacle Avoidance Sensor
+# 27. Keyes KY-032 Obstacle Avoidance Sensor
 
 ![Keyes Obstacle Avoidance Sensor](keyes-obstacle-avoidance-sensor.jpg)
 
