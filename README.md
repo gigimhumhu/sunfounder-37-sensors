@@ -1,5 +1,5 @@
 # Example Arduino Sketches for the Sunfounder 37 Sensors Kit 
-* [X] 1. [Keyes KY-035 Analog hall magnetic sensor](01 - Keyes Analog Hall Magnetic Sensor)
+* [X] 1. [Keyes KY-035 Analog Hall Magnetic Sensor](01 - Keyes Analog Hall Magnetic Sensor)
 * [ ] 2. RGB LED
 * [ ] 3. Knock sensor
 * [ ] 4. Infrared-transmit
