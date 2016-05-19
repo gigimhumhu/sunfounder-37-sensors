@@ -5,6 +5,7 @@ Demonstrates basic usage by detecting tilts
 ![Tilt Detection Demo](detect-tilt-example-01.gif)
 
 ![Sensor when mercury is detected](mercury-detected.JPG)
+
 Light indicator turns red when mercury is detected
 
 ## Parts Used
