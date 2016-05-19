@@ -10,7 +10,7 @@
 * [ ] 9. Passive buzzer
 * [ ] 10. Common-cathode red & green LED
 * [ ] 11. Push button
-* [X] 12. [RGB LED](12 - RGB LED/)
+* [X] 12. [Keyes KY-016 Three-Color RGB LED](12 - Keyes Three-Color RGB LED)
 * [ ] 13. Light break sensor
 * [X] 14. [Tilt switch sensor](14 - Tilt Switch Sensor)
 * [ ] 15. 18b20 temperature sensor
