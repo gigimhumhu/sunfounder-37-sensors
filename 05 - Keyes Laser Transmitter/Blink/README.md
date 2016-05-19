@@ -2,7 +2,7 @@
 Demonstrates basic usage by blinking laser repeatedly
 
 ## Parts Used
-* 1x [Keyes Laser Sensor](http://www.amazon.com/Laser-head-sensor-module-arduino/dp/B013GC1AJ8)
+* 1x [Keyes Laser Transmitter](http://www.amazon.com/Laser-head-sensor-module-arduino/dp/B013GC1AJ8)
 * 1x [Ardunio UNO R3 Board Module](http://www.amazon.com/Arduino-Board-Module-ATmega328P-Blue/dp/B01A0MONA0)
 * 1x [Breadboard] (http://www.amazon.com/Veewon-SYB-170-Color-Breadboard-Circuit/dp/B00OP4FQVU)
 * 3x [Male-to-Male Jumper Wires](http://www.amazon.com/Phantom-YoYo-Dupont-Cable-10cm/dp/B00KOL8O6C)
