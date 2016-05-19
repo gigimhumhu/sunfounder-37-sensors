@@ -12,7 +12,7 @@ Demonstrates basic usage by detecting tilts
 * 1x [USB 2.0 Cable A-Male-to-B-Male](http://www.amazon.com/AmazonBasics-USB-2-0-Cable--Male/dp/B00NH11KIK)
 
 ## The Wiring
-![Wiring Example 1](wiring-01.JPG)
+![Wiring Example 1](wiring-01.jpg)
 ![Wiring Example 2](wiring-02.JPG)
 ![Wiring Example 3](wiring-03.JPG)
 
