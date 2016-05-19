@@ -12,7 +12,7 @@
 * [ ] 11. Push button
 * [X] 12. [Keyes KY-016 Three-Color RGB LED](12 - Keyes Three-Color RGB LED)
 * [ ] 13. Light break sensor
-* [X] 14. [Tilt switch sensor](14 - Tilt Switch Sensor)
+* [X] 14. [Keyes KY-020 Tilt Switch Sensor](14 - Keyes Tilt Switch Sensor)
 * [ ] 15. 18b20 temperature sensor
 * [ ] 16. Rotate-encode
 * [ ] 17. Active buzzer

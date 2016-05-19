@@ -1,4 +1,4 @@
-# Keyes KY-008 Laser Transmitter
+# 5. Keyes KY-008 Laser Transmitter
 
 ![Keyes Laser Transmitter](keyes-laser-transmitter.jpg)
 

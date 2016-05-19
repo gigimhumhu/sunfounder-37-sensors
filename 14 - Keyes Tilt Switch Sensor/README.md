@@ -1,4 +1,4 @@
-# 1. Tilt Switch Sensor
+# 14. Keyes KY-020 Tilt Switch Sensor
 
 ![Keyes Tilt Switch Sensor](keyes-tilt-switch-sensor.jpg)
 
