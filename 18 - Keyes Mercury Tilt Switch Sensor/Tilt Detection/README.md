@@ -4,6 +4,9 @@ Demonstrates basic usage by detecting tilts
 ## Demo
 ![Tilt Detection Demo](detect-tilt-example-01.gif)
 
+![Sensor when mercury is detected](mercury-detected.JPG)
+Light indicator turns red when mercury is detected
+
 ## Parts Used
 * 1x [Keyes Mercury Tilt Switch Sensor](http://www.amazon.com/Mercury-switch-module-for-arduino/dp/B013GBZO8W)
 * 1x [Ardunio UNO R3 Board Module](http://www.amazon.com/Arduino-Board-Module-ATmega328P-Blue/dp/B01A0MONA0)
