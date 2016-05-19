@@ -1,4 +1,4 @@
-# 18. Keyes Mercury Tilt Switch Sensor
+# 18. Keyes KY-017 Mercury Tilt Switch Sensor
 
 ![Keyes Mercury Tilt Switch Sensor](keyes-mercury-tilt-switch-sensor.jpg)
 

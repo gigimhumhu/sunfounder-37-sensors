@@ -16,7 +16,7 @@
 * [ ] 15. 18b20 temperature sensor
 * [ ] 16. Rotate-encode
 * [ ] 17. Active buzzer
-* [X] 18. [Mercury tilt switch sensor](18 - Mercury Tilt Switch Sensor)
+* [X] 18. [Keyes KY-017 Mercury Tilt Switch Sensor](18 - Keyes Mercury Tilt Switch Sensor)
 * [ ] 19. Colorful auto-flash
 * [ ] 20. Hall sensor
 * [ ] 21. Magic-ring
