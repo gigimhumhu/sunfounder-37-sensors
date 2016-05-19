@@ -35,4 +35,4 @@
 * [ ] 34. Flame sensor
 * [ ] 35. Relay
 * [ ] 36. Magnetic spring
-* [X] 37. [Joystick PS2](37 - Joystick)
+* [X] 37. [Keyes KY-023 PS2 Joystick](37 - Keyes PS2 Joystick)
