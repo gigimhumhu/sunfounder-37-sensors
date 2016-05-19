@@ -1,4 +1,4 @@
-# 1. Analog Hall Magnetic Sensor
+# 1. Keyes KY-035 Analog Hall Magnetic Sensor
 
 ![Keyes Analog Hall Magnetic Sensor](keyes-analog-hall-magnetic-sensor.jpg)
 
