@@ -1,34 +1,18 @@
 # Blink
-Blink is an Arduino sketch to demonstrate the basic functionality of the Keyes RGB LED.
+Repeatedly blinks each color (red, green, blue) in succession
 
-## Materials Needed
-Quantity | Material
----------|---------
-1|Arduino Uno
-1|solderless breadboard w/ labeled grid ([like the one seen here](http://www.amazon.com/Solderless-Plug--BreadBoard-tie-points-200PTS/dp/B005GYATUG))
-1|Keyes RGB LED
-3|330Ω resistors
-6|male jumper wires
+## Parts Used
+* 1x [Keyes Three-Color LED](http://www.amazon.com/Keyes-Three-color-full-color-LED-plug/dp/B013GBZRSY)
+* 1x [Ardunio UNO R3 Board Module](http://www.amazon.com/Arduino-Board-Module-ATmega328P-Blue/dp/B01A0MONA0)
+* 1x [Breadboard] (http://www.amazon.com/Veewon-SYB-170-Color-Breadboard-Circuit/dp/B00OP4FQVU)
+* 6x [Male-to-Male Jumper Wires](http://www.amazon.com/Phantom-YoYo-Dupont-Cable-10cm/dp/B00KOL8O6C)
+* 3x [330 Ohm Resistors](http://www.amazon.com/E-Projects-100EP514330R-330-Resistors-Pack/dp/B0185FGN98)
+* 1x [USB 2.0 Cable A-Male-to-B-Male](http://www.amazon.com/AmazonBasics-USB-2-0-Cable--Male/dp/B00NH11KIK)
 
-## Wiring Instructions
+## The Wiring
+![Wiring Example 1](wiring-01.JPG)
+![Wiring Example 2](wiring-02.JPG)
+![Wiring Example 3](wiring-03.JPG)
 
-Component  | Connection Details | 
-------------- | -------------
-Keyes RGB LED | Ground - a4, R - a5, G - a6, B - a7
-330Ω resistor | e5 - g5
-330Ω resistor | e6 - g6
-330Ω resistor | e7 - g7
-male jumper wire | pin 9 - h7
-male jumper wire | pin 10 - h6
-male jumper wire | pin 11 - h5
-male jumper wire | e4 - breadboard ground
-male jumper wire | breadboard ground - Arduino GND
-male jumper wire | breadboard power - Arduino 5V
-
-## Sketch Code
-
-This is a pretty basic example, so just see the full sketch [here](Blink.ino).
-
-## Demo
-
-<img src='demo.gif' title='demo' alt='demo' />
+## The Code
+See [blink.ino](blink.ino)
