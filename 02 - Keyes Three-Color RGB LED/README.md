@@ -1,4 +1,4 @@
-# 12. Keyes KY-009 Three-Color RGB LED
+# 2. Keyes KY-009 Three-Color RGB LED
 
 ![Keyes Three-Color RGB LED](keyes-three-color-led.jpg)
 
