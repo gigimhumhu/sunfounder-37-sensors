@@ -9,7 +9,7 @@
 * [ ] 8. Analog-temperature sensor
 * [ ] 9. Passive buzzer
 * [ ] 10. Common-cathode red & green LED
-* [ ] 11. Push button
+* [X] 11. [Keyes KY-004 Key Switch Sensor](11 - Keyes Key Switch Sensor)
 * [X] 12. [Keyes KY-016 Three-Color RGB LED](12 - Keyes Three-Color RGB LED)
 * [ ] 13. Light break sensor
 * [X] 14. [Keyes KY-020 Tilt Switch Sensor](14 - Keyes Tilt Switch Sensor)

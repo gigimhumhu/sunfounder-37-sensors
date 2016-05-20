@@ -6,3 +6,4 @@
 
 ## Arduino Sketches
 * **[Blink](Blink/)** - Repeatedly blinks each color (red, green, blue) in succession
+* **[Toggle LED State](/11 - Keyes Key Switch Sensor/Toggle LED State/)** - Toggles the state of a three-color LED each time the button is pressed
