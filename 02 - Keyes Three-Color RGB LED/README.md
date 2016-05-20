@@ -8,4 +8,4 @@
 * **[Blink](Blink/)** - Repeatedly blinks each color (red, green, blue) in succession
 
 ## Notes
-* This sensor is very similar to the [/Keyes KY-016 Three-Color RGB LED](12 - Keyes Three-Color RGB LED). See that page for more examples.
+* This sensor is very similar to the [Keyes KY-016 Three-Color RGB LED](/12 - Keyes Three-Color RGB LED). See that page for more examples.

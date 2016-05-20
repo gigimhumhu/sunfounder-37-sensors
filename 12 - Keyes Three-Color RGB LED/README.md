@@ -9,4 +9,4 @@
 * **[Toggle LED State](/11 - Keyes Key Switch Sensor/Toggle LED State/)** - Toggles the state of a three-color LED each time the button is pressed
 
 ## Notes
-* This sensor is very similar to the [/Keyes KY-009 Three-Color RGB LED](02 - Keyes Three-Color RGB LED). See that page for more examples.
+* This sensor is very similar to the [Keyes KY-009 Three-Color RGB LED](/02 - Keyes Three-Color RGB LED). See that page for more examples.
